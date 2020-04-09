@@ -76,7 +76,7 @@ body {
 }
 
 .card-title{
-	font-size:24px;
+	font-size:20px;
 	margin:20px 0 20px 0;
 	text-align:center;
 }
@@ -86,7 +86,7 @@ body {
 	padding: 5px 15px;
 	margin:auto;
 	margin_top:20px;
-	border-radius: 50px;;
+	border-radius: 50px;
 	background-color: transparent;
 	border: 2px solid #eb1c22;
 	color: #eb1c22;
